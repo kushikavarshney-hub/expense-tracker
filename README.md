@@ -2,13 +2,13 @@
 A web-based expenses tracking application built using HTML,CSS,and JavaScript.
 
 ## Technologies Used
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 ## Features
--Add expenses
--Delete expenses
--Dynamic updates
+- Add expenses
+- Delete expenses
+- Dynamic updates
 
 ## Author
 Kushika Varshney
